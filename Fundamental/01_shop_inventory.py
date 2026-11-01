@@ -1,5 +1,3 @@
-import re
-
 def in_expensive_products(items,price):
     count = 0
     total_price = 0

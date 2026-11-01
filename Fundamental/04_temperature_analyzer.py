@@ -13,6 +13,5 @@ def main():
     print(f"Number of temperature's  greater than {threshold} are {qualifying_temp_count}.")
     print(f"Sum of temperature's  greater than to {threshold} are {qualifying_temp_sum}.")
 
-
 if __name__ == "__main__":
     main()

@@ -13,6 +13,5 @@ def main():
     print(f"Number of student's whose marks are greater than or equal to {threshold} are {qualifying_students_count}.")
     print(f"Total marks of student's with greater than or equal to {threshold} are {qualifying_students_total}.")
 
-
 if __name__ == "__main__":
     main()
